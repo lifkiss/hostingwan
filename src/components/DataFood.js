@@ -1,13 +1,13 @@
 const DataFood = [
     {
-        img: "foodAsset/picture1.png",
+        img: "foodAsset/picture1.jpg",
         nama: "Pengkang",
         deskripsi: "merupakan makanan tradisional berbahan ketan dengan isi udang ebi yang dibungkus dengan daun pisang dan dikukus",
         kategori: "Berat",
         harga: "Rp8.000 - 30.000"
     },
     {
-        img: "../foodAsset/picture2.png",
+        img: "../foodAsset/picture2.jpg",
         nama: "Kerupuk Basah",
         deskripsi: "Makanan ini adalah makanan khas Kalimantan Barat, khususnya Kota Putussibau. Bentuknya mirip pempek palembang yaitu lonjong dan memanjang.Panjangnya berkisar 15 sampai 25 cm. Diameternya biasanya berkisar antara 2 sampai 3 meter. Makanan ini lebih nikmat bila disantap dengan menggunakan sambal khas Pontianak.",
         kategori: "Ringan",
