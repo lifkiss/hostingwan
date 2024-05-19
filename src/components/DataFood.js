@@ -1,6 +1,6 @@
 const DataFood = [
     {
-        img: "../../foodAsset/picture1.png",
+        img: ".foodAsset/picture1.png",
         nama: "Pengkang",
         deskripsi: "merupakan makanan tradisional berbahan ketan dengan isi udang ebi yang dibungkus dengan daun pisang dan dikukus",
         kategori: "Berat",
