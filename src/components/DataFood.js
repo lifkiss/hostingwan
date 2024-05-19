@@ -1,27 +1,27 @@
 const DataFood = [
     {
-        img: ".foodAsset/picture1.png",
+        img: "foodAsset/picture1.png",
         nama: "Pengkang",
         deskripsi: "merupakan makanan tradisional berbahan ketan dengan isi udang ebi yang dibungkus dengan daun pisang dan dikukus",
         kategori: "Berat",
         harga: "Rp8.000 - 30.000"
     },
     {
-        img: "../../foodAsset/picture2.png",
+        img: "../foodAsset/picture2.png",
         nama: "Kerupuk Basah",
         deskripsi: "Makanan ini adalah makanan khas Kalimantan Barat, khususnya Kota Putussibau. Bentuknya mirip pempek palembang yaitu lonjong dan memanjang.Panjangnya berkisar 15 sampai 25 cm. Diameternya biasanya berkisar antara 2 sampai 3 meter. Makanan ini lebih nikmat bila disantap dengan menggunakan sambal khas Pontianak.",
         kategori: "Ringan",
         harga: "Rp10.000 - 25.000"
     },
     {
-        img: "../../foodAsset/picture3.png",
+        img: "./foodAsset/picture3.png",
         nama: "Sotong pangkong",
         deskripsi: " Sotong adalah makanan yang terbuat dari cumi yang sudah cukup dikenal. Namun, di Kalimantan Barat ada sotong pangkong, yaitu cumi yang digeprek hingga menjadi gepeng. Cara membuatnya yaitu dengan memanggang cumi sampai matang. Setelah matang kemudian cumi dipukul sampai gepeng. Selanjutnya dijemur sampai kering. Cara menikmati makanan ini adalah mencampurnya dengan saus asam pedas atau saus kacang",
         kategori: "Ringan",
         harga: "Rp23.000 - 120.000"
     },
     {
-        img: "../../foodAsset/picture4.png",
+        img: "/foodAsset/picture4.png",
         nama: " Asam Pedas Tempoyak",
         deskripsi: "Asam pedas tempoyak adalah jenis makanan yang akan mudah ditemui di Ketapang. Bahan dasar tempoyak adalah dari buah durian Kalbar yang difermentasi.",
         kategori: "Berat",
